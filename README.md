@@ -1,15 +1,7 @@
 # 헌법 탐정단 : 사라진 시민의 권리를 찾아라!
 
-초등 5~6학년 헌법교육 동아리용 **비주얼 노벨 추리 게임**입니다.
-`index.html` 파일 하나로 실행되며, 설치가 필요 없습니다.
-
-## GitHub Pages로 링크 만들기
-
-1. GitHub에서 새 저장소(Repository)를 만듭니다. (예: `constitution-detective`, Public)
-2. **Add file → Upload files**로 `index.html`(필요하면 이 `README.md`도)을 올리고 **Commit changes**를 누릅니다.
-3. 저장소의 **Settings → Pages**로 갑니다.
-4. **Source**를 `Deploy from a branch`로, **Branch**를 `main` / `/(root)`로 정하고 **Save**를 누릅니다.
-5. 1~2분 뒤 `https://내아이디.github.io/저장소이름/` 주소가 생깁니다. 이 링크를 학생들에게 나눠 주세요.
+초등 헌법교육 동행학교 동아리용 **비주얼 노벨 추리 게임**입니다.
+#제작자: 인천산곡초 교사 양승분(2026.10.03.)
 
 ## 게임 구성 (CASE 01만 약 40분, 전체는 2~3차시)
 
